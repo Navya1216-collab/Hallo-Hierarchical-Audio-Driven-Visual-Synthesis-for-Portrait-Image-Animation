@@ -9,9 +9,9 @@
 
 **Overview:**
 
-| Original Paper  | Demo | Cloud Deployment  |
-| :---: | :---: | :---: |
-| **[Paper](https://arxiv.org/pdf/2406.08801v1)** | **[Demo Video](https://drive.google.com/file/d/1HRl-g49TdONNCEm-56Xwgg7uW8VlcVYb/view)** | **[Testing Link](https://colab.research.google.com/drive/1WpCSCHF3PRNb7nlk9IfHWU4gBqUNOINl?usp=sharing )** |
+| Original Paper  | Demo | 
+| :---: | :---: | 
+| **[Paper](https://arxiv.org/pdf/2406.08801v1)** | **[Demo Video](https://drive.google.com/file/d/1HRl-g49TdONNCEm-56Xwgg7uW8VlcVYb/view)** |
 
 ## 📸 Showcase
 
