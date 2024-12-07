@@ -7,7 +7,10 @@
 
 ## 📸 Showcase
 
-![OUTPUT](assets/Output.mp4)
+
+https://github.com/user-attachments/assets/5affa438-c304-41f8-a219-b4dcd3ae88bd
+
+
 
 ## 🔧️ Framework
 
