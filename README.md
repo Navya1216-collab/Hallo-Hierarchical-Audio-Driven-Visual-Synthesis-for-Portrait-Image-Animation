@@ -5,6 +5,14 @@
 <h3>Yaswanth Gollapudi - 801386686 </h3>
 <h3> Thadisana Navya Reddy - 801425759 </h3>
 
+
+
+**Overview:**
+
+| Original Paper  | Demo | Cloud Deployment  |
+| :---: | :---: | :---: |
+| **[Paper](https://arxiv.org/pdf/2406.08801v1)** | **[Demo Video](https://drive.google.com/file/d/1HRl-g49TdONNCEm-56Xwgg7uW8VlcVYb/view)** | **[Testing Link](https://colab.research.google.com/drive/1WpCSCHF3PRNb7nlk9IfHWU4gBqUNOINl?usp=sharing )** |
+
 ## 📸 Showcase
 
 
@@ -32,6 +40,8 @@ Create conda environment:
 Install packages with `pip`
 
 ```bash
+  git clone https://github.com/Navya1216-collab/Hallo-Hierarchical-Audio-Driven-Visual-Synthesis-for-Portrait-Image-Animation.git
+  cd Hallo-Hierarchical-Audio-Driven-Visual-Synthesis-for-Portrait-Image-Animation
   pip install -r requirements.txt
   pip install .
 ```
