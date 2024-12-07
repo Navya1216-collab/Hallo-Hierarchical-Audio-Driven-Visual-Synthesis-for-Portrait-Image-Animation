@@ -7,7 +7,7 @@
 
 ## 📸 Showcase
 
-
+![OUTPUT](assets/Output.mp4)
 
 ## 🔧️ Framework
 
